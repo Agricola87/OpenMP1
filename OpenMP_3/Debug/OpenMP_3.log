@@ -1,0 +1,10 @@
+﻿  OpenMP_3.cpp
+c:\users\agricola\documents\visual studio 2015\projects\itlab\1\openmp_3\openmp_3\matrix.h(91): warning C4101: k: неиспользованная локальная переменная
+c:\users\agricola\documents\visual studio 2015\projects\itlab\1\openmp_3\openmp_3\matrix.h(91): warning C4101: s: неиспользованная локальная переменная
+c:\users\agricola\documents\visual studio 2015\projects\itlab\1\openmp_3\openmp_3\matrix.h(91): warning C4101: j: неиспользованная локальная переменная
+c:\users\agricola\documents\visual studio 2015\projects\itlab\1\openmp_3\openmp_3\matrix.h(91): warning C4101: i: неиспользованная локальная переменная
+c:\users\agricola\documents\visual studio 2015\projects\itlab\1\openmp_3\openmp_3\matrix.h(158): warning C4101: k: неиспользованная локальная переменная
+c:\users\agricola\documents\visual studio 2015\projects\itlab\1\openmp_3\openmp_3\matrix.h(158): warning C4101: j: неиспользованная локальная переменная
+c:\users\agricola\documents\visual studio 2015\projects\itlab\1\openmp_3\openmp_3\matrix.h(193): warning C4172: возвращение адреса локальной или временной переменной : m1
+  OpenMP_3.vcxproj -> C:\Users\Agricola\Documents\Visual Studio 2015\Projects\ITLab\1\OpenMP_3\Debug\OpenMP_3.exe
+  OpenMP_3.vcxproj -> C:\Users\Agricola\Documents\Visual Studio 2015\Projects\ITLab\1\OpenMP_3\Debug\OpenMP_3.pdb (Full PDB)
